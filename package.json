@@ -80,7 +80,7 @@
     "pretty-bytes": "6.1.1",
     "sort-package-json": "2.10.1",
     "vite": "5.4.8",
-    "vitest": "1.6.0"
+    "vitest": "2.1.2"
   },
   "packageManager": "yarn@4.3.1",
   "publishConfig": {
