@@ -16,7 +16,7 @@ async function runVite() {
     envFile: false,
     write: false,
     logLevel: 'warn',
-    plugins: [vitePluginImageSquoosh({__test_enable_cache: false})],
+    plugins: [vitePluginImageSquoosh({cache: false})],
     build: {assetsInlineLimit: 0},
   })
 
