@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-image-minify",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Vite plugin to minify images.",
   "keywords": [
     "vite-plugin",
@@ -50,7 +50,7 @@
     "release": "run-s lint test dist"
   },
   "dependencies": {
-    "image-minimizer": "^0.0.5"
+    "image-minimizer": "^0.0.7"
   },
   "devDependencies": {
     "@fisker/eslint-config": "13.1.3",
