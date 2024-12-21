@@ -50,7 +50,7 @@
     "release": "run-s lint test dist"
   },
   "dependencies": {
-    "image-minimizer": "^0.0.7"
+    "image-minimizer": "^0.0.8"
   },
   "devDependencies": {
     "@fisker/eslint-config": "13.1.3",
